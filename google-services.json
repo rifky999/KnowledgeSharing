@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97326045063",
+    "firebase_url": "https://knowledgesharing-60fb2.firebaseio.com",
+    "project_id": "knowledgesharing-60fb2",
+    "storage_bucket": "knowledgesharing-60fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97326045063:android:e0191388bde51238",
+        "android_client_info": {
+          "package_name": "r99.developer.id.knowledgesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97326045063-52mbr4bg2osrekt6sarigo5r85kt21sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "r99.developer.id.knowledgesharing",
+            "certificate_hash": "9ccd6247478c7a4c0996f546c7ae6e76d1dfbfee"
+          }
+        },
+        {
+          "client_id": "97326045063-pifqoibfej9ijksbo1p35s367f66gh2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ8P4H2HuhNr3O3yZUMoJ0oN_WWBaGYx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97326045063-pifqoibfej9ijksbo1p35s367f66gh2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
